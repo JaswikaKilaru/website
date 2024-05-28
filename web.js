@@ -1,0 +1,111 @@
+const executiveMembers = [
+    {
+      firstname: "Avisikta",
+      lastname: "Mandal",
+      role: " SAIC Member",
+      imageUrl: "/teams/present/Avisikta_Mondal.jpg",
+      details: "2nd year, ME",
+    },
+
+    {
+      firstname: "PRAKASH CH.",
+      lastname: "DAS",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/PRAKASH CH._DAS.jpg",
+      details: "2nd year, MME",
+    },
+    {
+      firstname: "Jaswika Mithram ",
+      lastname: "Kilaru",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Jaswika Mithram_Kilaru.jpg",
+      details: "2nd year, CSE",
+    },
+    {
+      firstname: "SATYAKE",
+      lastname: "SADHUKAN",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/SATYAKE_SADHUKAN.jpg",
+      details: "2nd year, MME",
+    },
+    {
+      firstname: "Galipelly",
+      lastname: "Sriram",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Galipelly_Sriram.jpg",
+      details: "2nd year, CE",
+    },
+    {
+      firstname: "Anagh",
+      lastname: "Sinha",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Anagh_Sinha.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "SAFIYA TASNEEM",
+      lastname: "SHAIK",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/SAFIYA TASNEEM_SHAIK.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "Aparup",
+      lastname: "Goswami",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Aparup_Goswami.jpg",
+      details: "2nd year, MME",
+    },
+    {
+      firstname: "Sagar ",
+      lastname: "Murmu",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Sagar_Murmu.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "Joys ",
+      lastname: "Pakalapati",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Joys_Pakalapati.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "Tulasi ",
+      lastname: "Patra",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Tulasi_Patra.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "",
+      lastname: "Pottella",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/_Pottella.jpg",
+      details: "2nd year, ME",
+    },
+    {
+      firstname: "Subhamita",
+      lastname: "Halder",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Subhamita_Halder.jpg",
+      details: "2nd year, CSE",
+    },
+
+    {
+      firstname: "Riya",
+      lastname: "Singh",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Riya_Singh.jpg",
+      details: "2nd year, CE",
+    },
+    {
+      firstname: "Mandala",
+      lastname: "Bharadwaj",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Mandala_Bharadwaj.jpg",
+      details: "2nd year, CSE",
+    },
+    
+  ];
+  
