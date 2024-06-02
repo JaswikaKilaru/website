@@ -3,7 +3,7 @@ const executiveMembers = [
       firstname: "Avisikta",
       lastname: "Mandal",
       role: " SAIC Member",
-      imageUrl: "/teams/present/Avisikta_Mondal.jpg",
+      imageUrl: "/teams/present/Avisikta_Mandal.jpg",
       details: "2nd year, ME",
     },
 
@@ -11,21 +11,21 @@ const executiveMembers = [
       firstname: "PRAKASH CH.",
       lastname: "DAS",
       role: "SAIC Member",
-      imageUrl: "/teams/present/PRAKASH CH._DAS.jpg",
+      imageUrl: "/teams/present/PRAKASHCHANDRA_DAS.jpg",
       details: "2nd year, MME",
     },
     {
       firstname: "Jaswika Mithram ",
       lastname: "Kilaru",
       role: "SAIC Member",
-      imageUrl: "/teams/present/Jaswika Mithram_Kilaru.jpg",
+      imageUrl: "/teams/present/Jaswika_Mithram_Kilaru.jpg",
       details: "2nd year, CSE",
     },
     {
       firstname: "SATYAKE",
       lastname: "SADHUKAN",
       role: "SAIC Member",
-      imageUrl: "/teams/present/SATYAKE_SADHUKAN.jpg",
+      imageUrl: "/teams/present/Satyake_Sadhukhan.jpg",
       details: "2nd year, MME",
     },
     {
@@ -46,7 +46,7 @@ const executiveMembers = [
       firstname: "SAFIYA TASNEEM",
       lastname: "SHAIK",
       role: "SAIC Member",
-      imageUrl: "/teams/present/SAFIYA TASNEEM_SHAIK.jpg",
+      imageUrl: "/teams/present/SAFIYA_TASNEEM_SHAIK.jpg",
       details: "2nd year, ME",
     },
     {
@@ -67,14 +67,14 @@ const executiveMembers = [
       firstname: "Joys ",
       lastname: "Pakalapati",
       role: "SAIC Member",
-      imageUrl: "/teams/present/Joys_Pakalapati.jpg",
+      imageUrl: "/teams/present/Joys_pakalapati.jpg",
       details: "2nd year, ME",
     },
     {
       firstname: "Tulasi ",
       lastname: "Patra",
       role: "SAIC Member",
-      imageUrl: "/teams/present/Tulasi_Patra.jpg",
+      imageUrl: "/teams/present/Tulasi_pottella.jpg",
       details: "2nd year, ME",
     },
     {
@@ -96,7 +96,7 @@ const executiveMembers = [
       firstname: "Riya",
       lastname: "Singh",
       role: "SAIC Member",
-      imageUrl: "/teams/present/Riya_Singh.jpg",
+      imageUrl: "/teams/present/Riya_Singh.jpeg",
       details: "2nd year, CE",
     },
     {
