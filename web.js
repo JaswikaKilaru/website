@@ -72,16 +72,16 @@ const executiveMembers = [
     },
     {
       firstname: "Tulasi ",
-      lastname: "Patra",
+      lastname: "Pottella",
       role: "SAIC Member",
       imageUrl: "/teams/present/Tulasi_pottella.jpg",
       details: "2nd year, ME",
     },
     {
-      firstname: "",
-      lastname: "Pottella",
+      firstname: "Kamal Kanta",
+      lastname: "Patra",
       role: "SAIC Member",
-      imageUrl: "/teams/present/_Pottella.jpg",
+      imageUrl: "/teams/present/KamalKanta_Patra.jpg",
       details: "2nd year, ME",
     },
     {
@@ -105,6 +105,14 @@ const executiveMembers = [
       role: "SAIC Member",
       imageUrl: "/teams/present/Mandala_Bharadwaj.jpg",
       details: "2nd year, CSE",
+    },
+
+    {
+      firstname: "Sourasish",
+      lastname: "Das",
+      role: "SAIC Member",
+      imageUrl: "/teams/present/Sourasish_Das.jpg",
+      details: "2nd year, CE",
     },
     
   ];
